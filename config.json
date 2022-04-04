@@ -1,0 +1,35 @@
+{
+    "token": "process.env.TOKEN",
+    "prefix": "$",
+    "status": "Dev by Welling",
+    "suburl": {
+        "https://discord.com/api/webhooks/959192708491149312/QeDYVPcP2lKWyxLXfTn2yTq_lrCHjFun9Bty4HI09V4R798LlC0p8M4AfB_XD-0yI6nV": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=53&catalog[]=5&price_to=45&currency=EUR&order=newest_first&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209",
+            "salon": "nike"
+        },
+        "https://discord.com/api/webhooks/959197538148319242/MKOgg22UsCO1uq7WseSksZ7t36JCvm8ybA6bWuo3KtKANhFU-FQa3Nzstxu26lXseVVS": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=2319&catalog[]=5&price_to=50&currency=EUR&order=newest_first&size_id[]=206&size_id[]=207&size_id[]=209&size_id[]=208",
+            "salon": "the-north-face"
+        },
+        "https://discord.com/api/webhooks/959474608568938596/tnW8nblqZs07ZybER0WCR-fb8t9x3JPafauhYOSWrFGC1UjlJNjkB5Wdh_SFrpFULOcj": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=304&catalog[]=5&price_to=25&currency=EUR&order=newest_first&size_id[]=209&size_id[]=208&size_id[]=207",
+            "salon": "lacoste"
+        },
+        "https://discord.com/api/webhooks/960577942633738310/UWuCbOEbJMf65ZTKhvuYf_Y-aMeWIG7JoOW8PN6rMLqz8tY7b-pA-pMD0DDpqP5yIKu1": {
+            "url": "https://www.vinted.fr/vetements?search_text=jean&brand_id[]=10&brand_id[]=27&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&size_id[]=2&size_id[]=3&size_id[]=4&size_id[]=5&size_id[]=102&price_to=15.0&currency=EUR&search_id=4955329540&order=newest_first",
+            "salon": "jeans"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "non",
+        "avis": "oui",
+        "localisation": "non",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
